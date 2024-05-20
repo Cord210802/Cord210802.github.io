@@ -21,4 +21,4 @@ layout: default
 
 # Con mis amigos de Puebla
 ![Foto 8](/assets/images/foto8.jpeg)
-[back](./)
+[Regresar](./)
