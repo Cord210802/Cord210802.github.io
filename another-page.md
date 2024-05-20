@@ -4,6 +4,9 @@ layout: default
 
 # Mejores fotos de cacería
 
+## Con hembra de aguila real
+![Foto 1](/assets/images/foto.jpg)
+
 ## Pezcando con mis cuates del ITAM 
 ![Foto 3](/assets/images/foto3.jpeg)
 
