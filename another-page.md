@@ -2,8 +2,23 @@
 layout: default
 ---
 
-## Welcome to another page
+# Mejores fotos de cacería
 
-_yay_
+## Pezcando con mis cuates del ITAM 
+![Foto 3](/assets/images/foto3.jpeg)
 
+## Volando una hembra de peregrino 
+![Foto 4](/assets/images/foto4.jpeg)
+
+# Con mi maestro Charly  
+![Foto 5](/assets/images/foto5.jpeg)
+
+# Con mi querido amigo Tom
+![Foto 6](/assets/images/foto6.jpeg)
+
+# Tom quedo en primer lugar en un torneo
+![Foto 7](/assets/images/foto7.jpeg)
+
+# Con mis amigos de Puebla
+![Foto 8](/assets/images/foto8.jpeg)
 [back](./)
