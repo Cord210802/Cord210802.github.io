@@ -31,7 +31,7 @@ layout: default
 # Con mi querido amigo Tom
 ![Foto 6](/assets/images/foto6.jpeg)
 
-# Tom quedo en primer lugar en un torneo
+# Tom quedó en primer lugar en un torneo
 ![Foto 7](/assets/images/foto7.jpeg)
 
 # Con mis amigos de Puebla
