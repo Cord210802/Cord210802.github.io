@@ -4,13 +4,13 @@ layout: default
 
 # Mejores fotos de cacería
 
-## Con hembra de aguila real
+## Con hembra de águila real
 ![Foto 1](/assets/images/foto.jpg)
 
-## Pezcando con mi novia
+## Pescando con mi novia
 ![Foto 3](/assets/images/Jean1.jpeg)
 
-## Pezcando con mis cuates del ITAM 
+## Pescando con mis cuates del ITAM 
 ![Foto 3](/assets/images/foto3.jpeg)
 
 ## Cazando coyotes 
