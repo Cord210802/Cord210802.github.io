@@ -3,7 +3,7 @@ layout: default
 ---
 ![Branching](assets/images/foto1.jpg)
 
-# Un poco sobre mi
+# Un poco sobre mí
 
 Actualmente estoy cursando la licenciatura en Ciencia de Datos en el prestigioso Instituto Tecnológico Autónomo de México (ITAM), donde también trabajo como administrador de redes de la universidad.
 
